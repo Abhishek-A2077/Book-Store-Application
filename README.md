@@ -2,7 +2,7 @@
 
 "This is an intuitive Online Bookstore web application developed using Spring Boot, Maven, HTML, CSS, and Java. It enables users to seamlessly explore available books, manage their personal collection, and contribute new additions to the store."
 
-## Features
+### Features
 - **Home Page**: The main landing page of the bookstore. 
 - **Available Books**: Displays a list of all the books currently available in the store.
 - **My Books**: A personal section showing the books owned by the logged-in user.
